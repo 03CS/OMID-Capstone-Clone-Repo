@@ -1,4 +1,4 @@
-# UC Agrivoltaics Senior Design
+# UC Agrivoltaics Senior Desig
 # 2025 - 2026
 
 > ⚠️ **This project was continued for the academic year 2025-2026 by a new team.**  
